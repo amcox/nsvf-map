@@ -1,0 +1,96 @@
+"subject","grade","school","boy","moy"
+"math",0,"DCP: Benning Elementary Campus",51,60
+"math",0,"DCP: Edgewood Elementary Campus",55,72
+"math",0,"E.L. Haynes PCS",,38
+"math",0,"Ingenuity Prep",32,62
+"math",0,"ReNEW: DTA",22,61
+"math",0,"ReNEW: RCAA",11,23
+"math",0,"ReNEW: SCH",7,23
+"math",0,"ReNEW: STA",10,22
+"math",0,"RSHP: Alma Academy",27,60
+"math",0,"RSHP: Brilliant Minds",22,62
+"math",0,"RSHP: Discovery Prep",21,36
+"math",0,"RSHP: Los Suenos",20,47
+"math",0,"RSHP: Mateo Sheedy",23,46
+"math",0,"RSHP: Mosaic",25,46
+"math",0,"RSHP: Si Se Puede",25,61
+"math",0,"RSHP: Southside Community Prep",33,59
+"math",0,"RSHP: Spark Academy",39,77
+"math",1,"DCP: Benning Elementary Campus",66,59
+"math",1,"DCP: Edgewood Elementary Campus",76,69
+"math",1,"E.L. Haynes PCS",,27
+"math",1,"ReNEW: DTA",17,28
+"math",1,"ReNEW: RCAA",17,23
+"math",1,"ReNEW: SCH",9,22
+"math",1,"ReNEW: STA",30,44
+"math",1,"RSHP: Alma Academy",65,69
+"math",1,"RSHP: Brilliant Minds",50,59
+"math",1,"RSHP: Discovery Prep",55,57
+"math",1,"RSHP: Los Suenos",52,55
+"math",1,"RSHP: Mateo Sheedy",59,51
+"math",1,"RSHP: Mosaic",54,63
+"math",1,"RSHP: Si Se Puede",62,73
+"math",1,"RSHP: Southside Community Prep",25,60
+"math",1,"RSHP: Spark Academy",41,68
+"math",2,"DCP: Benning Elementary Campus",60,50
+"math",2,"DCP: Edgewood Elementary Campus",81,78
+"math",2,"E.L. Haynes PCS",43,35
+"math",2,"ReNEW: DTA",21,28
+"math",2,"ReNEW: RCAA",36,22
+"math",2,"ReNEW: SCH",10,18
+"math",2,"ReNEW: STA",17,34
+"math",2,"RSHP: Alma Academy",48,54
+"math",2,"RSHP: Brilliant Minds",54,61
+"math",2,"RSHP: Discovery Prep",40,41
+"math",2,"RSHP: Los Suenos",59,47
+"math",2,"RSHP: Mateo Sheedy",57,64
+"math",2,"RSHP: Mosaic",67,69
+"math",2,"RSHP: Si Se Puede",67,67
+"math",2,"RSHP: Southside Community Prep",29,35
+"math",2,"RSHP: Spark Academy",50,74
+"reading",0,"DCP: Benning Elementary Campus",80,69
+"reading",0,"DCP: Edgewood Elementary Campus",84,77
+"reading",0,"Ingenuity Prep",35,49
+"reading",0,"ReNEW: DTA",30,52
+"reading",0,"ReNEW: RCAA",27,23
+"reading",0,"ReNEW: SCH",19,24
+"reading",0,"ReNEW: STA",22,32
+"reading",0,"RSHP: Alma Academy",40,57
+"reading",0,"RSHP: Brilliant Minds",30,46
+"reading",0,"RSHP: Discovery Prep",33,35
+"reading",0,"RSHP: Los Suenos",32,42
+"reading",0,"RSHP: Mateo Sheedy",28,40
+"reading",0,"RSHP: Mosaic",37,42
+"reading",0,"RSHP: Si Se Puede",32,41
+"reading",0,"RSHP: Southside Community Prep",42,46
+"reading",0,"RSHP: Spark Academy",55,74
+"reading",1,"DCP: Benning Elementary Campus",72,59
+"reading",1,"DCP: Edgewood Elementary Campus",88,71
+"reading",1,"ReNEW: DTA",18,32
+"reading",1,"ReNEW: RCAA",23,17
+"reading",1,"ReNEW: SCH",14,22
+"reading",1,"ReNEW: STA",28,46
+"reading",1,"RSHP: Alma Academy",41,44
+"reading",1,"RSHP: Brilliant Minds",38,38
+"reading",1,"RSHP: Discovery Prep",43,53
+"reading",1,"RSHP: Los Suenos",32,46
+"reading",1,"RSHP: Mateo Sheedy",47,37
+"reading",1,"RSHP: Mosaic",39,40
+"reading",1,"RSHP: Si Se Puede",35,53
+"reading",1,"RSHP: Southside Community Prep",27,43
+"reading",1,"RSHP: Spark Academy",33,61
+"reading",2,"DCP: Benning Elementary Campus",56,54
+"reading",2,"DCP: Edgewood Elementary Campus",81,66
+"reading",2,"ReNEW: DTA",24,31
+"reading",2,"ReNEW: RCAA",29,25
+"reading",2,"ReNEW: SCH",17,17
+"reading",2,"ReNEW: STA",25,33
+"reading",2,"RSHP: Alma Academy",49,41
+"reading",2,"RSHP: Brilliant Minds",49,56
+"reading",2,"RSHP: Discovery Prep",34,30
+"reading",2,"RSHP: Los Suenos",38,36
+"reading",2,"RSHP: Mateo Sheedy",51,47
+"reading",2,"RSHP: Mosaic",51,45
+"reading",2,"RSHP: Si Se Puede",45,46
+"reading",2,"RSHP: Southside Community Prep",24,41
+"reading",2,"RSHP: Spark Academy",45,54
