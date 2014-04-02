@@ -1,14 +1,8 @@
 # -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This temporary script file is located here:
-/Users/Andrew/.spyder2/.temp.py
-"""
+# At least on OSX, this needs to run in an iPython console
 from plotSlope import slope
 import pandas as pd
 import os
-
 
 renew_highlights  = {"ReNEW: RCAA":'blue',
           'ReNEW: DTA':'blue',
@@ -16,7 +10,7 @@ renew_highlights  = {"ReNEW: RCAA":'blue',
           'ReNEW: SCH':'blue',
 }
 
-all_map_data = pd.read_csv(os.path.join('Data','all map percs.csv'),
+all_map_data = pd.read_csv(os.path.join('./../Data','all map percs.csv'),
                           na_values=''
 )
     
@@ -25,11 +19,12 @@ def make_and_save_slope_plot_gs(df):
     subject = df.iloc[0]['subject']
     d = df[["school", "boy", "moy"]]
     d = d.set_index("school")
-    f = slope(d,height=11,width=8.5,font_size=8,
-        savename="map {0} grade {1}.png".format(subject, grade),
+    f = slope(d,
+        # Need to manually adjust width and height depending on data
+        height=16,width=10,font_size=8,
         title="MAP Scores for {0}, Grade {1}".format(subject, grade),
         font_family='GillSans', color=renew_highlights
     )
-    f.savefig('Output/map {0} grade {1}.png'.format(subject, grade))
+    f.savefig('./../Output/scaled slopegraph map {0} grade {1}.png'.format(subject, grade))
 
 all_map_data.groupby(["grade", "subject"]).apply(make_and_save_slope_plot_gs)

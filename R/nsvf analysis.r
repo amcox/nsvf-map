@@ -49,7 +49,7 @@ make_schools_grades_bar_plot <- function(d, s) {
     theme_bw()+
     theme(
       axis.text.x=element_text(size=6),
-      strip.text.x=element_text(size=5),
+      strip.text.x=element_text(size=4),
       legend.text=element_text(size=6),
       legend.title=element_text(size=7)
     )+
@@ -59,7 +59,3 @@ make_schools_grades_bar_plot <- function(d, s) {
 
 make_schools_grades_bar_plot(dm, 'reading')
 make_schools_grades_bar_plot(dm, 'math')
-
-
-  
-# TODO: Slopegraph for percent at 50th percentile from period to period (maybe each quartile, to)
